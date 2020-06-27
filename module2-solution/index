@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Assignment Solution for Module 2</title>
+</head>
+
+<body>
+    <h1>
+        Our Menu
+    </h1>
+    <div>
+        <h2>
+            Chicken
+        </h2>
+        <p>
+            Cupidatat esse amet minim dolore anim dolor magna ut id culpa commodo mollit in amet exercitation cupidatat consectetur ut aliqua labore laborum aliqua laboris exercitation veniam dolore sint dolor dolor.
+        </p>
+    </div>
+    <div>
+        <h2>
+            Beef
+        </h2>
+        <p>
+            Cupidatat esse amet minim dolore anim dolor magna ut id culpa commodo mollit in amet exercitation cupidatat consectetur ut aliqua labore laborum aliqua laboris exercitation veniam dolore sint dolor dolor.
+        </p>
+    </div>
+    <div>
+        <h2>
+            Sushi
+        </h2>
+        <p>
+            Cupidatat esse amet minim dolore anim dolor magna ut id culpa commodo mollit in amet exercitation cupidatat consectetur ut aliqua labore laborum aliqua laboris exercitation veniam dolore sint dolor dolor.
+        </p>
+    </div>
+</body>
+
+</html>
