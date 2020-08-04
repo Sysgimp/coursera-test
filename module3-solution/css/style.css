@@ -8,6 +8,36 @@
 }
 
 .navbar-brand.h1 {
-font-weight: bold;
-	font-size: 2em;
+    font-size: 2em;
+    padding-top: 13px;
+	padding-bottom: 13px;
+}
+
+#navbarNav {
+	border-top: 3px solid black;
+}
+
+.nav-item a:hover {
+	background: lightgray;
+}
+
+.nav-item:nth-child(2){
+	border-top: black solid 1px;
+	border-bottom: black solid 1px;
+}
+
+
+/*Body starts here */
+
+/* div.container {
+	max-width: calc(100% - 48px);
+} */
+
+.col-12 h3 {
+	font-size: 1.5em;
+}
+
+div.col-12 {
+	background: lightgray;
+	height: 1000px;
 }
